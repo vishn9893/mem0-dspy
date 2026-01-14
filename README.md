@@ -21,9 +21,9 @@ If you find this content helpful, please consider supporting my work on Patreon.
 
 The architecture is inspired heavily by Mem0. Here are some links to get started with Mem0.
 
-- Check out Mem0 here: t.co/h3U8W1Lr5u
+- Check out Mem0 here: https://t.co/h3U8W1Lr5u
 - Mem0 Github - https://mem0.dev/github/avb
-- Get Mem0 API Key - t.co/lmFqnI5CkV
+- Get Mem0 API Key - https://t.co/lmFqnI5CkV
 - Mem0 Paper: https://arxiv.org/abs/2504.19413
 
 I also used QDrant as my vector database, and DSPy to generate structured outputs and do tool-calls.
